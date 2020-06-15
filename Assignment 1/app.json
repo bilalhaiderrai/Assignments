@@ -1,0 +1,38 @@
+{
+  "id": "4656665d-c883-4467-8a23-c9cbe5d36d4d",
+  "name": "Course Management and Social Media App",
+  "publisher": "BH",
+  "version": "1.16.0.0",
+  "brief": "Course Management App",
+  "description": "This app manages couses that are registered",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://coursemanagement.com/help",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 90400,
+      "to": 90499
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://coursemanagement.com",
+  "showMyCode": true,
+  "runtime": "5.0"
+}

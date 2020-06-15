@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="DataTypes App">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2878484983 - Field 329134311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BH Customer Overview - Field Entry No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2878484983 - Field 627846863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BH Customer Overview - Field Customer No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2878484983 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BH Customer Overview - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2878484983 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BH Customer Overview - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2878484983 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BH Customer Overview - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2878484983 - Field 2578636657 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Run Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BH Customer Overview - Field LastRunDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2878484983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Overview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BH Customer Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2878484983 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BH Customer Overview - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1380911970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Type Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BH Data Type Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2301574549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expressions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BH Expressions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2301574549 - Action 1561766673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BH Expressions - Action Execute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1825758005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statements Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BH Statement Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570512653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Armstrong Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BH Armstrong Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3098794934 - Action 360998715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Update Credit Limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BH Credit Limit - Action UpdateCreditLimit - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

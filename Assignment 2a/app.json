@@ -1,0 +1,39 @@
+{
+  "id": "bbf0383a-41d3-4ce7-9304-9bff39f5f233",
+  "name": "DataTypes App",
+  "publisher": "BH",
+  "version": "1.16.0.0",
+  "brief": "App for Assignment 2a",
+  "description": "App to demonstrate assignment 2a tasks",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/methods-auto/library",
+  "url": "",
+  "logo": "",
+  "features": ["TranslationFile"],
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 90400,
+      "to": 90499
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/methods-auto/library",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
