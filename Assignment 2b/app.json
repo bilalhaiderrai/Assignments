@@ -1,0 +1,38 @@
+{
+  "id": "fcc0f2cc-20d7-4f84-a822-c3b4332c8e47",
+  "name": "Assignment 2b",
+  "publisher": "BH",
+  "version": "1.16.0.0",
+  "brief": "For Assignment 2b",
+  "description": "Design Patterns",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://markbrummel.blog/2020/01/10/working-on-design-patterns-for-business-central/",
+  "url": "https://markbrummel.blog/2020/01/10/working-on-design-patterns-for-business-central/",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 90400,
+      "to": 90499
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://markbrummel.blog/2020/01/10/working-on-design-patterns-for-business-central/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
