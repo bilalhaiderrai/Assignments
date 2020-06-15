@@ -1,4 +1,4 @@
-page 90482 "Company Information Wizard"
+page 90482 "BH Company Information Wizard"
 {
     PageType = NavigatePage;
     ApplicationArea = All;
